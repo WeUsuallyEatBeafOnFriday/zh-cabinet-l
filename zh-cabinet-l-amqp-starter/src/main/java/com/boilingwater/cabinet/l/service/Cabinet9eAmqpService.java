@@ -27,7 +27,7 @@ import java.util.HashMap;
 import java.util.UUID;
 
 /**
- * L系列电柜AMPQ Service
+ * L系列电柜AMQP Service
  *
  * @author Benana
  * @since 2024-01-30
